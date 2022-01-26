@@ -448,7 +448,7 @@ section {
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #1f5297;
+  border-left: 2px solid rgb(118, 118, 118);
   position: relative;
 }
 .resume .resume-item h4 {
@@ -462,7 +462,7 @@ section {
 }
 .resume .resume-item h5 {
   font-size: 16px;
-  background: #e4edf9;
+  background: #f0f0f0;
   padding: 5px 15px;
   display: inline-block;
   font-weight: 600;
@@ -486,7 +486,7 @@ section {
   left: -9px;
   top: 0;
   background: #fff;
-  border: 2px solid #1f5297;
+  border: 2px solid rgb(68, 68, 68);
 }
 
 /*--------------------------------------------------------------
