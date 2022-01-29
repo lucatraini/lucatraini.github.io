@@ -950,7 +950,7 @@ section {
 #footer {
   padding: 15px;
   color: #f4f6fd;
-  font-size: 14px;
+  font-size: 12px;
   position: fixed;
   left: 0;
   bottom: 0;
@@ -960,6 +960,8 @@ section {
 }
 #footer .copyright {
   text-align: center;
+  color: rgb(118, 118, 118);
+  font-weight: 300;
 }
 #footer .credits {
   padding-top: 5px;
